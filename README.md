@@ -37,7 +37,6 @@ The assignment shall also include any future revisions of these changes and
 enhancements hereafter made by you. This includes, at our option, the right to 
 sublicense these same rights to third parties through multiple levels of 
 sublicensees or other licensing or transfer arrangements.
-
 You also agree that we may register a copyright in the Contribution and 
 exercise all ownership rights associated with it; and you agree that neither 
 of us has any duty to consult with, obtain the consent of, pay or render an 
